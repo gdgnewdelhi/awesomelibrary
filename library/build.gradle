@@ -3,8 +3,8 @@ apply plugin: 'com.android.library'
 // Required plugin in library module
 apply plugin: 'com.github.dcendents.android-maven'
 
-// Replace nisrulz with <your_github_username>
-group='com.github.nisrulz'
+// Replace GDGND with <your_github_username>
+group='com.github.GDGND'
 
 android {
   compileSdkVersion 24
